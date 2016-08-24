@@ -1,0 +1,5 @@
+This is a project which uses computer vision/or a set of checkboxes to emulate punch cards for the PDP-8 (tm?).
+
+I realize that punchcards weren't really used with this processor, but it's somewhat amusing.
+
+This might be useful for a person wanting the ease of programming with punch cards without the ecological consequences of paper use.
